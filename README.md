@@ -4,8 +4,6 @@ https://mybinder.org/v2/gh/Homemadestea58/jupyterlab-demo/HEAD
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Homemadestea58/jupyterlab-demo/HEAD)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab)
-
 This repository contains some demonstrations of
 [JupyterLab](https://github.com/jupyter/jupyterlab), the next
 generation user interface of Project Jupyter.
